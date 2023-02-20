@@ -1,13 +1,3 @@
-# Codecademy_Data-Viz-_Project_Life_expectancy-and-GDP-
+# Codecademy Portfolio Project: Data Visualization: Life Expectancy and GDP
+To analyze data on Gross Domestic Product (GDP) and Life Expectancy at birth (LE) from the World Health Organization (WHO) and the World Bank to identify the effect of LE on Economic Growth within six countries from 2000 till 2015.
 
-TITLE: The effect of Life Expectancy on Economic Growth within six countries from 2000 till 2015.
-
-OBJECTIVE: Analyze data on Gross Domestistic Product (GDP) and Life Expectancy at birth (LE) from the World Health Organization (WHO) and the World Bank to identify the relationship between LE and GDP within six countries for a fixed time period.
-
-INTRODUCTION The overall mortality indicator, life expectancy at birth is an important indicator of health status in a country. LE does reflect the overall mortality level of a population. This mortality indicator is often used to  compare socioeconomic development across countries.  A recurring finding in the literature is that health leads to income growth through its effect on human capital accumulation:a population in better health may accumulate physical capital more quickly. The relationship between health status and income is becoming stronger over time. This latter fact shows that income, as measured by GDP, might be a determinant of health.
-
-METHODS Data on LE (Years) and GDP($) used in this project have been available from the Codecadecamy platform on a CSV file. Data analysis has been performed using the Exploratory Data Analysis (EDA) approach that does employ a variety of techniques (mostly graphical) to maximize insight into the dataset, extract important variables and determine optimal factor settings. Data analysis was performed using Python.
-
-RESULTS The dataset does cointain 96 observations of LE and GDP for 6 countries (Chile, China, Germany, Mexico, USA, Zimbawabwe) in the period from 2000 till 2015. Each country does have the same number of observations (16 obs) and each year is charaterised by the same number of observations (6 obs). No missing values were found.The distribution of GDP for each country does show an increased time trend in GDP for each country. Neverless, China and Germany do show a more strong increased of GDP over time. On the other side Zimbabwe does not seem do have a relevant increase in GDP over time.  The distribution of LE per country does show that LE does increase for each country between 2000 till 2015. 
-
-CONCLUSIONS A limitation of the data could be represent by the size of the given dataset. Considering a large number of observations could provide more insight in the results. Besides, it could be interesting analysying also the impact of other factors that were not enclosed in the give dataset, as for instance age, sex and life expectancy at age 60 (years). Further research could be adress to overcome the limitations and results of this analysis
